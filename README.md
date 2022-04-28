@@ -4,3 +4,5 @@
 - Making Bar Graph by using _Matlplotlib_ and _Seaborn_
 
 ### EDA using Canadian Car Sales Dataset
+- Using different Visualization method to explore the data
+- Comparing the implmentation of Matplotlib, Seaborn and Pyplotly
